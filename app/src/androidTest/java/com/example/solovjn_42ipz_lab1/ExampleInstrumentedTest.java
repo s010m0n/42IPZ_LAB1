@@ -1,4 +1,4 @@
-package com.example.koval42ipzlab01;
+package com.example.solovjn_42ipz_lab1;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.koval42ipzlab01", appContext.getPackageName());
+        assertEquals("com.example.solovjn_42ipz_lab1", appContext.getPackageName());
     }
 }
